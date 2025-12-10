@@ -1,25 +1,38 @@
-<h2 align="center">Oi, eu sou a Júlia! 🌷</h2>
+<h2 align="center">oi, eu sou a júlia! 🌷</h2>
 
 <p align="center">
-Transformando ideias em interfaces
+frontend developer<br />
+criando interfaces simples, bonitas e com intenção
 </p>
 
----
+<br />
 
-### 🌸 Tecnologias
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+<p align="center">
+  tecnologias que uso
 </p>
 
----
-
-### 🧺 Ferramentas do dia a dia
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
 </p>
 
----
+<br />
 
-### 🤍 Contato
-- 🌷 LinkedIn: <a href="https://www.linkedin.com/in/júliapontes" target="_blank">linkedin.com/in/júliapontes</a>
-- ✉️ Email: julia.dospontes@gmail.com
+<p align="center">
+  ferramentas
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
+</p>
+
+<br />
+
+<p align="center">
+  conecte-se
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/júliapontes">linkedin</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:julia.dospontes@gmail.com">email</a>
+</p>
