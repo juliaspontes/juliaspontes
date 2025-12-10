@@ -1,13 +1,5 @@
 # Olá, seja bem-vindo(a)! Sou a Júlia
 
-
-📚 Estou no 8º Termo de Sistemas de Informação pela Toledo Prudente
-
-🏃🏽‍♀️ Apaixonada por esportes e tecnologia
-
-⌨️ Constantemente procurando conhecimento em todas as áreas da tecnologia
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
