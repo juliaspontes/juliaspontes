@@ -1,8 +1,8 @@
 <h2 align="center">oi, eu sou a júlia! 🌷</h2>
 
 <p align="center">
-frontend developer<br />
-criando interfaces simples, bonitas e com intenção
+frontend developer & data analyst<br />
+criando interfaces simples, bonitas e transformando dados em decisões
 </p>
 
 <br />
