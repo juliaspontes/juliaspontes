@@ -22,7 +22,8 @@ criando interfaces simples, bonitas e transformando dados em decisões
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,powerbi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
+  <img height="48" src="LINK_DO_SVG_POWERBI" />
 </p>
 
 <br />
